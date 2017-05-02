@@ -1,0 +1,66 @@
+#body
+{
+	margin-top: 20px;
+}
+
+#article_insert
+{
+	margin-bottom: 20px;
+}
+
+.list-group-item
+{
+	overflow: hidden;
+}
+
+#fulltext, #plaintext, #details, #left, #html, #occurrence
+{
+    overflow-y: auto;
+    overflow-x: hidden;	
+}
+
+#plaintext, #html
+{
+	display:none;
+}
+
+#fulltext ref
+{
+}
+
+#fulltext a.loc
+{
+	background-color: lightgreen;
+}
+
+#fulltext a.loc_shadow
+{
+	background-color: yellow;
+}
+
+
+
+#fulltext a.link
+{
+	background-color: pink;
+}
+
+h5.mb-1
+{
+	margin: 0 !important;
+}
+
+#delete_article
+{
+	margin-left: 5px;
+}
+
+div.card
+{
+	margin-top:20px;
+}
+
+#switch
+{
+
+}
